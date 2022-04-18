@@ -1,3 +1,3 @@
 ## EatCode
-- Just the problems but from LeetCode .
+- Just some problems but from LeetCode .
 #### [ Developer : Blesslin R ]
