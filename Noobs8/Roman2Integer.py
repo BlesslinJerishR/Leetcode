@@ -19,3 +19,5 @@ for rome in list(roman):
     value.append(num)
 
 print(sum(value))
+
+# Example 1 & 2 Passed Successfully
