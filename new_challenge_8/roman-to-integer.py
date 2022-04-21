@@ -5,7 +5,6 @@ class Solution(object):
         decimal = 0
         for i in range(len(s)):
             if i > 0 and numeral_map[s[i]] > numeral_map[s[i-1]]:
-                # D
                 decimal += numeral_map[s[i]] - 2 * numeral_map[s[i-1]]
             else:
                 decimal += numeral_map[s[i]]
